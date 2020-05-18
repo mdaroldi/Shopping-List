@@ -1,4 +1,4 @@
-**Shopping List Web App**
+# Shopping List Web App
 
 To run locally:
 
@@ -9,3 +9,13 @@ To run locally:
 * Run your MongoDB server
 
 * Run 'npm start' & Run 'npm run dev'
+
+
+## Technologies:
+* Javascript
+* Node.js
+* Vue JS
+* Firebase
+* Firestore
+* HTML
+* CSS
